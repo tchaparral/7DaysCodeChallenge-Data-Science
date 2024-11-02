@@ -10,5 +10,4 @@ Essas perguntas nos ajudam a fornecer insights para a diretoria das bibliotecas,
 
 A análise se baseia nos dados de empréstimos e exemplares dos acervos dos últimos 10 anos. O primeiro passo foi unificar essas informações em um único DataFrame para facilitar a análise. Iniciamos com a importação dos dados de transações de empréstimo e, em seguida, os mesclamos com os dados do acervo para identificar a origem dos materiais e os temas associados. Também realizamos a limpeza de dados, removendo duplicações e valores nulos, para garantir a qualidade dos resultados finais.
 
-
-
+Este projeto provem de uma iniciativa da Alura para aprendizado de data science
